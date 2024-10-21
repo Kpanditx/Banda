@@ -1,3 +1,11 @@
 a{
   text-decoration: none;
 }
+
+.bg-instrument {
+  background-color: #073D8E;
+}
+.custom-shadow {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
+}
+
